@@ -72,14 +72,14 @@ admin dapat membuat pemesanan kendaraan dan melakukan konfirmasi selesai pemesan
 Approver1 dapat melakukan persetujuan dan penolakan pemesanan kendaraan yang telah dilakukan oleh Admin.
 
 -   `approver1@gmail.com`
--   `password1`
+-   `pas123`
 
 **APPROVER 2 ACCOUNT**
 
 Approver2 dapat melakukan persetujuan dan penolakan pemesanan kendaraan yang telah dilakukan oleh Admin.
 
 -   `approver2@gmail.com`
--   `password2`
+-   `pas321`
 
 <br>
 
