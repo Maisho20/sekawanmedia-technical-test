@@ -27,7 +27,7 @@
 2. **Drivers**
 
     - id (Primary Key) 🔑
-    - name
+    - driver_name
 
 3. **Vehicles**
     - id (Primary Key) 🔑
