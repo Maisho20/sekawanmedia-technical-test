@@ -1,10 +1,12 @@
 <p align="center">
         <img  src="PDM-drawio.png" alt="pdm">
+    <br>
         <b>Make with draw.io</b>
 </p>
 
 <p align="center">
         <img  src="PDM-Myphp.png" alt="pdm">
+    <br>
         <b>Screen Shoot from PHPmyAdmin</b>
 </p>
 
@@ -25,7 +27,7 @@
 2. **Drivers**
 
     - id (Primary Key) 🔑
-    - name
+    - driver_name
 
 3. **Vehicles**
     - id (Primary Key) 🔑

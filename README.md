@@ -4,7 +4,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## Table of Contents
 
 -   [About The Project](#about)
 -   [Fitur Aplikasi](#fitur)
@@ -13,11 +13,11 @@
 -   [Tools Version](#tools-version)
 -   [Related Project](#related-project)
 
-## 🧐 About The Project<a name = "about"></a>
+## About The Project<a name = "about"></a>
 
 Sebuah web aplikasi untuk monitoring kendaraan yang dimiliki oleh perusahaan. Untuk dapat memakai kendaraan, pegawai harus melakukan pemesanan terlebih dahulu ke bagian pengelola kendaraan dan pemakaian kendaraan harus diketahui atau disetujui oleh masing - masing atasan.
 
-## 🛠 **Fitur Aplikasi** <a name = "fitur"></a>
+## **Fitur Aplikasi** <a name = "fitur"></a>
 
 -   Login
 -   Monitoring Grafik Pemakaian Kendaraan
@@ -26,7 +26,7 @@ Sebuah web aplikasi untuk monitoring kendaraan yang dimiliki oleh perusahaan. Un
 -   Export laporan periodik pemesanan kendaraan dalam bentuk Excel
 -   Log Aktivitas Pemesanan Kendaraan
 
-## 🎈 Cara Menjalankan <a name="usage"></a>
+## Cara Menjalankan <a name="usage"></a>
 
 **1. Clone repository ini `git clone https://github.com/Maisho20/sekawanmedia-technical-test.git`**
 
@@ -50,7 +50,7 @@ Sebuah web aplikasi untuk monitoring kendaraan yang dimiliki oleh perusahaan. Un
 
 <br>
 
-## 📸 **Pandan Penggunaan Aplikasi** <a name = "panduan"></a>
+## **Pandan Penggunaan Aplikasi** <a name = "panduan"></a>
 
 #### 1. Login
 
