@@ -20,7 +20,7 @@
 </head>
 
 
-<body class="bg-gradient-custom">
+<body class="bg-gradient-custom d-flex align-items-center justify-content-center">
 
     <div class="container">
 
@@ -32,11 +32,10 @@
                 <div class="card o-hidden border-0 shadow-lg my-5" style="background: transparent;">
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
-                        <div class="row">
+                        <div class="row align-items-center">
                             <div class="col-lg-6 d-none d-lg-block bg-gradient-primary py-5"
                                 style="background: transparent;">
                                 <div class="p-5 my-5 text-center">
-                                    {{-- <i class="fas fa-truck fa-5x text-white"></i> --}}
                                     <i class="fas fa-truck-monster fa-5x text-white"></i>
                                     <h1 class="h3 font-weight-bolder text-white my-3">Nickel Mining</h1>
                                     <h2 class="h6 text-white mb-4">Sistem Informasi Pemesanan Kendaraan</h2>
