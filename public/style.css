@@ -2,6 +2,7 @@
 /*background: linear-gradient(90deg, #4e73df 10%, #224abe 100%);*/
 /*background: rgba(255, 235, 205, 0.934);*/
 .bg-gradient-custom {
+    min-height: 100vh;
     background: linear-gradient(-50deg, #ee5952, #ea3a7e, #20aadb, #23e0b3);
     background-size: 400% 400%;
     -webkit-animation: Gradient 10s ease infinite;
